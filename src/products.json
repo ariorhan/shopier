@@ -1,0 +1,94 @@
+[
+    {
+        "id": 1,
+        "title":"Gum",
+        "price": 1,
+        "image": "https://digitalcontent.api.tesco.com/v2/media/ghs/bec87797-ad54-4185-b4d5-5c3f9f50fa07/4822cd2e-9c2f-42cf-a54d-fd9067ee995b_1545629975.jpeg?h=540&w=540"
+    },
+    {
+        "id": 2,
+        "title":"Coke",
+        "price": 2,
+        "image": "https://thebigbluecafe.co.uk/wp-content/uploads/2020/06/pub-media-catalog-product-c-o-coke_can_2000x0.jpg"
+    },
+    {
+        "id": 3,
+        "title":"Chocolate",
+        "price": 20,
+        "image" :"https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1637702913-419dLcxF-jL._SL500_.jpg?crop=0.984xw:1xh;center,top&resize=480:*"
+    },
+    {
+        "id": 4,
+        "title":"Banana",
+        "price": 3,
+        "image": "https://assets.sainsburys-groceries.co.uk/gol/1196757/1/640x640.jpg"
+    },
+    {
+        "id": 5,
+        "title":"Raspberries",
+        "price": 2,
+        "image": "https://assets.sainsburys-groceries.co.uk/gol/7436859/1/640x640.jpg"
+    },
+    {
+        "id": 6,
+        "title":"Finish Quantum Ultimate",
+        "price": 10,
+        "image": "https://assets.sainsburys-groceries.co.uk/gol/8039709/1/640x640.jpg"
+    },
+    {
+        "id": 7,
+        "title":"Kellogg's Special Cereal ",
+        "price": 2.5,
+        "image": "https://assets.sainsburys-groceries.co.uk/gol/7757391/1/640x640.jpg"
+    },
+    {
+        "id": 8,
+        "title":"Coco Coconut Water 1L",
+        "price": 4,
+        "image": "https://assets.sainsburys-groceries.co.uk/gol/7284374/1/640x640.jpg"
+    },
+    {
+        "id": 9,
+        "title":"Pepsi Max 24 Cans ",
+        "price": 8,
+        "image": "https://assets.sainsburys-groceries.co.uk/gol/7730215/1/640x640.jpg"
+    },
+    {
+        "id": 10,
+        "title":"Magnum Classic Chocolate",
+        "price": 3,
+        "image": "https://assets.sainsburys-groceries.co.uk/gol/7733657/1/640x640.jpg"
+    },
+    {
+        "id": 11,
+        "title":"Household Towel Roll",
+        "price": 6.5,
+        "image": "https://assets.sainsburys-groceries.co.uk/gol/8048626/1/640x640.jpg"
+    },
+    {
+        "id": 12,
+        "title":"Decaf Instant Coffee",
+        "price": 5,
+        "image": "https://assets.sainsburys-groceries.co.uk/gol/8071166/1/640x640.jpg"
+    },
+    {
+        "id": 13,
+        "title":"Crispy French Fries",
+        "price": 3,
+        "image": "https://assets.sainsburys-groceries.co.uk/gol/7701394/1/640x640.jpg"
+    },
+    {
+        "id": 14,
+        "title":"Gordon's London Dry Gin",
+        "price": 13,
+        "image": "https://assets.sainsburys-groceries.co.uk/gol/2436548/1/140x140.jpg"
+    },
+    {
+        "id": 15,
+        "title":"Mature Cheese",
+        "price": 3,
+        "image": "https://assets.sainsburys-groceries.co.uk/gol/7662938/1/640x640.jpg"
+    }
+
+]
+
