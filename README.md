@@ -1,5 +1,8 @@
 # About Shopier App
 I created this app with React | ReactJS Hooks | JS. Shopier app allows the users to add and remove products in their shopping basket.  
+Project link is here => https://shopierr-orhanari.netlify.app/
+<br/>
+<br/>
 
 
 
