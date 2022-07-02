@@ -1,3 +1,11 @@
+# About Shopier App
+I created this app with React | ReactJS Hooks | JS. Shopier app allows the users to add and remove products in their shopping basket.  
+
+
+
+
+![Screenshot 2022-07-02 at 16-24-47 Shopier](https://user-images.githubusercontent.com/66368354/177006704-e25720da-6110-4e9b-9685-d00ffc211cd9.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
